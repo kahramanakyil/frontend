@@ -6,7 +6,7 @@ const nextConfig = {
       fallback: [
         {
           source: '/api/:path*',
-          destination: `http://demo-backend/api/:path*`
+          destination: `http://cae-test-backend:8080/api/:path*`
         }
       ]
     }
