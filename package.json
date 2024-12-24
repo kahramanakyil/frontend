@@ -17,5 +17,5 @@
     "eslint": "8.23.1",
     "eslint-config-next": "12.3.0"
   },
-  "proxy": "http://localhost:8080/"
+  "proxy": "http://cae-test-backend:8080/"
 }
